@@ -5,7 +5,8 @@
   "repository": "nuxt-modules/stylelint",
   "license": "MIT",
   "contributors": [
-    "Ricardo Gobbo de Souza <ricardogobbosouza@yahoo.com.br>"
+    "Ricardo Gobbo de Souza <ricardogobbosouza@yahoo.com.br>",
+    "Gérard Mathiuet <gerard@mathiuet.ch>"
   ],
   "type": "module",
   "sideEffects": false,
